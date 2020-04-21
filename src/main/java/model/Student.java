@@ -8,7 +8,7 @@ import javax.persistence.Table;
 
 
 public class Student {
-
+//added comment
     @Id  
     @GeneratedValue(strategy=GenerationType.IDENTITY)  
     private int student_id;  
